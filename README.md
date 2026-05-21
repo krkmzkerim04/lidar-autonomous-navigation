@@ -25,8 +25,15 @@ Simülasyon tamamen Python programlama dili kullanılarak sıfırdan geliştiril
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları sırasıyla uygulayın:
 
 **1. Depoyu Klonlayın:**
+* **Yöntem A (Sisteminde Git kurulu olanlar için):**
 Sisteminize projeyi indirmek için terminal veya komut istemcisinde şu komutu çalıştırın:
 ```bash
 git clone https://github.com/krkmzkerim04/lidar-autonomous-navigation.git
 cd lidar-autonomous-navigation
 python robot_hareket.py
+
+* **Yöntem B (Sisteminde Git kurulu olmayanlar için):**
+  1. Bu sayfanın sağ üst köşesindeki yeşil **"Code"** butonuna tıklayın.
+  2. **"Download ZIP"** seçeneğine tıklayarak projeyi bilgisayarınıza indirin.
+  3. İnen ZIP dosyasını klasöre çıkartın (Klasör adı genellikle `lidar-autonomous-navigation` olacaktır).
+  4. Çıkarttığınız bu klasörün içine girin ve klasörün konumunda bir terminal (veya Komut İstemi/cmd) açın.
