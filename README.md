@@ -29,3 +29,4 @@ Sisteminize projeyi indirmek için terminal veya komut istemcisinde şu komutu �
 ```bash
 git clone https://github.com/krkmzkerim04/lidar-autonomous-navigation.git
 cd lidar-autonomous-navigation
+python robot_hareket.py
